@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+vocab_data.db
+vocab_backup_*.db
+*.csv
+.DS_Store
+Thumbs.db
